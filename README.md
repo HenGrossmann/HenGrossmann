@@ -14,7 +14,7 @@ Knowledge:
 
 
 
-<!--    
+
 My linkedin:
 
 
@@ -30,7 +30,7 @@ My linkedin:
 </div>
 
  
- 
+ <!--    
 
 
 **HenGrossmann/HenGrossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
