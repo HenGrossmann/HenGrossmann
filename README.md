@@ -1,4 +1,4 @@
-Hi there! I'm Henrique Grossmann! 👋
+# Hi there! I'm Henrique Grossmann! 👋
 I'm currently studying analysis and systems development at the Estacio college,looking for opportunities to work in the area. 
 At the moment I'm focusing in studying back end development in python.
 
@@ -15,7 +15,7 @@ Knowledge:
 
 
     
-My social links:
+My linkedin:
 <div>
   
  <a href="https://www.linkedin.com/in/henrique-grossmann-534a67249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
