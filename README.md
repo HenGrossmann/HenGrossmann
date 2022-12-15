@@ -1,14 +1,25 @@
 Hi there! I'm Henrique Grossmann! 👋
-I'm currently studying analysis and systems development at the Estacio college. 
+I'm currently studying analysis and systems development at the Estacio college,looking for opportunities to work in the area. 
 At the moment I'm focusing in studying back end development in python.
 
  
 Knowledge:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
     
-If you want to contact me, these are my social links!
+My social links:
+<div>
+  
+ <a href="https://www.linkedin.com/in/henrique-grossmann-534a67249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
  
  
