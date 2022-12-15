@@ -17,13 +17,16 @@ Knowledge:
 <!--    
 My linkedin:
 
-[Link text](https://www.linkedin.com/in/henrique-grossmann-534a67249/){:target="_blank"}
+
 
 <div>
   
  
+ <a href="https://www.linkedin.com/in/henrique-grossmann-534a67249/ " target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Image description">
+</a>
 
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 </div>
 
  
