@@ -14,7 +14,7 @@ Knowledge:
 
 
 
-    
+<!--    
 My linkedin:
 
 [Link text](https://www.linkedin.com/in/henrique-grossmann-534a67249/){:target="_blank"}
@@ -29,7 +29,7 @@ My linkedin:
  
  
 
-<!--
+
 **HenGrossmann/HenGrossmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
