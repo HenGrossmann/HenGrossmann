@@ -1,6 +1,5 @@
 # Hi there! I'm Henrique Grossmann! 👋
-I'm currently studying analysis and systems development at the Estacio college,looking for opportunities to work in the area. 
-At the moment I'm focusing in studying back end development in python.
+I'm currently studying analysis and systems development at the Estacio college,and I am actively seeking opportunities to gain practical experience in the field. My current focus is on back-end development using Python programming language
 
  
 Knowledge:
