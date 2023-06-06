@@ -1,5 +1,5 @@
 # Hi there! I'm Henrique Grossmann! 👋
-I'm currently studying analysis and systems development at the Estacio college,and I am actively seeking opportunities to gain practical experience in the field. My current focus is on back-end development using Python programming language
+I'm currently studying analysis and systems development, i have some knowledge with front-end and back-end, currently studying DevOps concepts
 
  
 Knowledge:
@@ -9,8 +9,8 @@ Knowledge:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
